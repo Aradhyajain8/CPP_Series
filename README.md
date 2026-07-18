@@ -8,6 +8,8 @@ Welcome to my C++ Series repository! This repository contains all the source cod
 
 ### Lecture 02 – Variables, Comments & Operators
 
+### Lecture 03 - Typecasting, If-Else if-Else & Switch case
+
 ## 🛠 Prerequisites
 
 
