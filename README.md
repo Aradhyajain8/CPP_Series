@@ -10,6 +10,8 @@ Welcome to my C++ Series repository! This repository contains all the source cod
 
 ### Lecture 03 - Typecasting, If-Else if-Else & Switch case
 
+### Lecture 04 - Simple Calculator & Loops
+
 ## 🛠 Prerequisites
 
 
