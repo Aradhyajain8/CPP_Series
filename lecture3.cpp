@@ -89,7 +89,6 @@ int main(){
         case 2:
         cout<<"tuesday"<<endl;
         break;
-        
 
         case 3:
         cout<<"wed"<<endl;
@@ -98,6 +97,40 @@ int main(){
         default:
         cout<<"invalid number"<<endl;
     }
+
+                            // HOMEWORK QUESTION SOLUTION
+
+    // 1 FIND NUMBER IS POSITIVE, NEGATIVE OR ZERO
+    int a;
+    cout<<"enter a number ";
+    cin>>a;
+
+    if(a<0){
+        cout<<"negative"<<endl;
+    }
+    else if(a>0){
+        cout<<"postive"<<endl;
+    }
+    else{
+        cout<<"zero"<<endl;
+    }
+
+    // 2 find largest of two numbers
+    int i,j;
+    cout<<"enter first number ";
+    cin>>i;
+
+    cout<<"enter second number ";
+    cin>>j;
+
+    if(i>j){
+        cout<<i<<" is greater than "<<j<<endl;
+    }
+    else{
+        cout<<j<<" is greater than "<<i<<endl;
+    }
+
+
     
 
    
