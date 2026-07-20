@@ -12,6 +12,8 @@ Welcome to my C++ Series repository! This repository contains all the source cod
 
 ### Lecture 04 - Simple Calculator & Loops
 
+### Lecture 05 - Nested Loops & pattern questions(Part 1)
+
 ## 🛠 Prerequisites
 
 
