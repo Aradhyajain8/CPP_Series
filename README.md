@@ -14,6 +14,8 @@ Welcome to my C++ Series repository! This repository contains all the source cod
 
 ### Lecture 05 - Nested Loops & pattern questions(Part 1)
 
+### Lecture 06 - Pattern questions(Part 2)
+
 ## 🛠 Prerequisites
 
 
