@@ -16,6 +16,8 @@ Welcome to my C++ Series repository! This repository contains all the source cod
 
 ### Lecture 06 - Pattern questions(Part 2)
 
+### Lecture 07 - Pattern questions(Part 3)
+
 ## 🛠 Prerequisites
 
 
