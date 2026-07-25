@@ -18,7 +18,9 @@ Welcome to my C++ Series repository! This repository contains all the source cod
 
 ### Lecture 07 - Pattern questions(Part 3)
 
-### Lecture 08 - functions,need of function & types
+### Lecture 08 - Functions, need of function & types
+
+### Lecture 09 - Function Overloading, Default argument & inline functions
 
 ## 🛠 Prerequisites
 
