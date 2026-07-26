@@ -22,6 +22,8 @@ Welcome to my C++ Series repository! This repository contains all the source cod
 
 ### Lecture 09 - Function Overloading, Default argument & inline functions
 
+### Lecture 10 - Introduction to Array, Traversing & Sum of Elements
+
 ## 🛠 Prerequisites
 
 
