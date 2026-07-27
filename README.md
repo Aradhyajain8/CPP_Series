@@ -24,6 +24,8 @@ Welcome to my C++ Series repository! This repository contains all the source cod
 
 ### Lecture 10 - Introduction to Array, Traversing & Sum of Elements
 
+### Lecture 11 - Linear Search, Reverse & 2nd Maximum
+
 ## 🛠 Prerequisites
 
 
