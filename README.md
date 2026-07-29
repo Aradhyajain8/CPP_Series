@@ -26,6 +26,8 @@ Welcome to my C++ Series repository! This repository contains all the source cod
 
 ### Lecture 11 - Linear Search, Reverse & 2nd Maximum
 
+### Lecture 12 - Left rotate by k elements & Find Duplicate
+
 ## 🛠 Prerequisites
 
 
