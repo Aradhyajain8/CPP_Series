@@ -28,6 +28,10 @@ Welcome to my C++ Series repository! This repository contains all the source cod
 
 ### Lecture 12 - Left rotate by k elements & Find Duplicate
 
+### Lecture 13 - Time and Space Complexity
+
+### Lecture 14 - Binary Search
+
 ## 🛠 Prerequisites
 
 
