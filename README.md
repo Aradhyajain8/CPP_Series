@@ -32,6 +32,8 @@ Welcome to my C++ Series repository! This repository contains all the source cod
 
 ### Lecture 14 - Binary Search
 
+### Lecture 15 - Bubble Sort
+
 ## 🛠 Prerequisites
 
 
