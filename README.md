@@ -34,6 +34,8 @@ Welcome to my C++ Series repository! This repository contains all the source cod
 
 ### Lecture 15 - Bubble Sort
 
+### Lecture 15 - Selection Sort
+
 ## 🛠 Prerequisites
 
 
