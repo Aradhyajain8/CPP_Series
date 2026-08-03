@@ -38,6 +38,8 @@ Welcome to my C++ Series repository! This repository contains all the source cod
 
 ### Lecture 17 - Insertion Sort
 
+### Lecture 18 - Intro to 2D Arrays, Print & Search an Element
+
 ## 🛠 Prerequisites
 
 
