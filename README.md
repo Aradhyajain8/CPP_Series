@@ -40,6 +40,8 @@ Welcome to my C++ Series repository! This repository contains all the source cod
 
 ### Lecture 18 - Intro to 2D Arrays, Print & Search an Element
 
+### Lecture 19 - Transpose of a matrix & Print upper triangle
+
 ## 🛠 Prerequisites
 
 
