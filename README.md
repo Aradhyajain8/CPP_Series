@@ -44,6 +44,8 @@ Welcome to my C++ Series repository! This repository contains all the source cod
 
 ### Lecture 20 - Intro to strings, Reverse & palindrome
 
+### Lecture 21 - Inbuilt function & Anagram(simple)
+
 ## 🛠 Prerequisites
 
 
