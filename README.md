@@ -42,6 +42,8 @@ Welcome to my C++ Series repository! This repository contains all the source cod
 
 ### Lecture 19 - Transpose of a matrix & Print upper triangle
 
+### Lecture 20 - Intro to strings, Reverse & palindrome
+
 ## 🛠 Prerequisites
 
 
